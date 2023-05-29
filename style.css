@@ -19,12 +19,10 @@ font-family: Roboto;
 
 #info {
 background-color: black;
+color: white;
 }
 
-#info {
-text-color:white;
-}
 
 .form-example {
-color: green;
+color: purple;
 }
