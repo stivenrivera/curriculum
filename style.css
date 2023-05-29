@@ -16,3 +16,11 @@ font-family: Georgia, serif;
 * {
 font-family: Roboto;
 }
+
+#myDiv {
+background-color: 312c2e;
+}
+
+.myClass > #myDiv {
+color: #f9f7f8;
+}
