@@ -17,10 +17,10 @@ font-family: Georgia, serif;
 font-family: Roboto;
 }
 
-#myDiv {
+#info {
 background-color: black;
 }
 
-.myClass > #myDiv {
+.form-example {
 color: #white;
 }
