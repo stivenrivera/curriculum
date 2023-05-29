@@ -21,6 +21,10 @@ font-family: Roboto;
 background-color: black;
 }
 
+#info {
+color:white;
+}
+
 .form-example {
-color: #white;
+color: green;
 }
