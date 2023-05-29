@@ -18,9 +18,9 @@ font-family: Roboto;
 }
 
 #myDiv {
-background-color: 312c2e;
+background-color: black;
 }
 
 .myClass > #myDiv {
-color: #f9f7f8;
+color: #white;
 }
