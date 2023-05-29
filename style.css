@@ -26,3 +26,10 @@ color: white;
 .form-example {
 color: purple;
 }
+
+div #img {
+  padding: 10px;
+  border: 1px solid black;
+  margin-left: 25%;
+  margin-right: 25%;
+}
