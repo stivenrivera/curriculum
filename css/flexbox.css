@@ -7,7 +7,7 @@ section:nth-child(2n+1) {
 }
 
 /* Flexbox */
-<main>{
+main {
   display: flex;
   row-gap: 0.5rem;
   column-gap: 0.5rem;
