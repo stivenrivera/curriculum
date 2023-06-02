@@ -1,0 +1,78 @@
+
+* {
+font-family: Arial, sans-serif;
+}
+
+.h2 {
+font-family: Times New Roman, serif;
+}
+
+h1 {
+font-family: Georgia, serif;
+}
+
+@import 
+  url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+section, article {
+  border: 1px solid grey;
+  border-radius: 1%;
+  text-align: center
+}
+
+body {
+  margin:  0;
+  padding: 0;
+}
+
+
+main {
+  height: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#ubicacion{
+  margin: 0 auto; 
+  display: block;
+}
+
+
+/* Flexbox */
+main {
+  display: flex;
+  row-gap: 0.5rem;
+  column-gap: 0.5rem;
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+  #titulo {
+    width: 100%;
+    background-color: grey;
+  }
+  #datosgenerales {
+    width: 79%;
+    background-color: #8c004b;
+  }
+  #imagen {
+    width: 19%;
+  }
+  #estudios {
+    width: 49%;
+    background-color: grey;
+  }
+  #habilidades{
+    width: 49%;
+    background-color: #8c004b;
+  }
+  #sugerencias{
+    width: 98%;
+    background-color: grey;
+  }
+
+
+}
