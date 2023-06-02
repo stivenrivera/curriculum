@@ -1,0 +1,9 @@
+section:nth-child(2n) {
+  background-color: aliceblue;
+}
+
+section:nth-child(2n+1) {
+  background-color: gray;
+}
+
+/* Flexbox */

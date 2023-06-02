@@ -1,0 +1,31 @@
+/* NO MODIFICAR */
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+section, article {
+  border: 1px solid grey;
+  border-radius: 1%;
+  text-align: center
+}
+
+body {
+  margin:  0;
+  padding: 0;
+}
+
+nav {
+  width: 100%;
+  text-align: center;
+  padding: 2% 0 2% 0;
+}
+
+main {
+  height: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* NO MODIFICAR */
